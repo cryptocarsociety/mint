@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,UACI,YAAa,CACb,UAAY,CACZ,gCACF,CAEF,YACA,UAAW,CACX,gBACA","file":"main.af33bbca.chunk.css","sourcesContent":[".MintInfo{\r\n    padding: 1rem;\r\n    color: white;\r\n    background-color: rgba(0, 0, 0, 0.69);\r\n  }\r\n  \r\n.MintInfo p {\r\nmargin: 3px;\r\nfont-size: 1.2rem;\r\n}"]}
